@@ -1,0 +1,321 @@
+[
+    {
+        "id": 1,
+        "question":"What Is The Name Of Light Yagami's Shinigami?",
+        "options":[
+            {"letter":"a","answer":"Rem"},
+            {"letter":"b","answer":"Ryuk"},
+            {"letter":"c","answer":"Jealous"},
+            {"letter":"d","answer":"Utai"}
+        ]
+        ,
+        "correctAnswer":"Ryuk"
+    },
+    {
+        "id": 2,
+        "question":"Where Light Yagami Found The Death Note?",
+        "options":[
+            {"letter":"a","answer":"At Home"},
+            {"letter":"b","answer":"At Park"},
+            {"letter":"c","answer":"At University"},
+            {"letter":"d","answer":"Someone gave to him"}
+        ],
+        "correctAnswer":"At University"
+    },
+    {
+        "id": 3,
+        "question":"The Human Who Uses This Note...",
+        "options":[
+            {"letter":"a","answer":"Shell Die"},
+            {"letter":"b","answer":"Shell Go To Hell"},
+            {"letter":"c","answer":"Shell Go to Heaven"},
+            {"letter":"d","answer":"Can Neither Go To Heaven Nor Hell"}
+        ],
+        "correctAnswer":"Can Neither Go To Heaven Nor Hell"
+    },
+    {
+        "id": 4,
+        "question":"What Is The Group's Name Of The Third Kira?",
+        "options":[
+            {"letter":"a","answer":"SPK"},
+            {"letter":"b","answer":"Tempest"},
+            {"letter":"c","answer":"Yotsuba"},
+            {"letter":"d","answer":"Yakusa"}
+        ],
+        "correctAnswer":"Yotsuba"
+    },
+    {
+        "id":5,
+        "question":"Who Was The Man Sentenced To Death That Challenged Kira Pretending To Be L? ",
+        "options":[
+            {"letter":"a","answer":"Taylor Smith"},
+            {"letter":"b","answer":"Lind Ken"},
+            {"letter":"c","answer":"Lind L Tailor"},
+            {"letter":"d","answer":"Lawliet Tailor"}
+        ],
+        "correctAnswer":"Lind L Tailor"
+    },
+    {
+        "id":6,
+        "question":"How L  Was Called At University? ",
+        "options":[
+            {"letter":"a","answer":"Hideki Ryuga"},
+            {"letter":"b","answer":"Riuzaky"},
+            {"letter":"c","answer":"L"},
+            {"letter":"d","answer":"Lawliet"}
+        ],
+        "correctAnswer":"Hideki Ryuga"
+    },
+    {
+        "id":6,
+        "question":"How L  Was Called By His Team? ",
+        "options":[
+            {"letter":"a","answer":"Hideki Ryuga"},
+            {"letter":"b","answer":"Riuzaky"},
+            {"letter":"c","answer":"L"},
+            {"letter":"d","answer":"Lawliet"}
+        ],
+        "correctAnswer":"Riuzaky"
+    },
+    {
+        "id":7,
+        "question":"Who Was Kira's First Victim? ",
+        "options":[
+            {"letter":"a","answer":"A Kidnapper"},
+            {"letter":"b","answer":"A Murder"},
+            {"letter":"c","answer":" A Drug Diler"},
+            {"letter":"d","answer":"A Rapis"}
+        ],
+        "correctAnswer":"A Kidnapper"
+    },
+    {
+        "id":8,
+        "question":"Who Is N? ",
+        "options":[
+            {"letter":"a","answer":"Naomi Misora"},
+            {"letter":"b","answer":"Namikawa"},
+            {"letter":"c","answer":"Nier"},
+            {"letter":"d","answer":"Mogi"}
+        ],
+        "correctAnswer":"Nier"
+    },
+    {
+        "id":9,
+        "question":"What Is The Name Of Light Yagami's Sister? ",
+        "options":[
+            {"letter":"a","answer":"Takada Yagami"},
+            {"letter":"b","answer":"Sayu Yagami"},
+            {"letter":"c","answer":"Sakura Yagami"},
+            {"letter":"d","answer":"Saya Yagami"}
+        ],
+        "correctAnswer":"Sayu Yagami"
+    },
+    {
+        "id":10,
+        "question":"Who Is L's Right Arm? ",
+        "options":[
+            {"letter":"a","answer":"George"},
+            {"letter":"b","answer":"Alfred"},
+            {"letter":"c","answer":"Aizawa"},
+            {"letter":"d","answer":"Watari"}
+        ],
+        "correctAnswer":"Watari"
+    },
+    {
+        "id":11,
+        "question":"Who Is Rem? ",
+        "options":[
+            {"letter":"a","answer":"Misa's Shinigami"},
+            {"letter":"b","answer":"Mikami's Shinigami"},
+            {"letter":"c","answer":"No One"},
+            {"letter":"d","answer":"Light's Shinigami"}
+        ],
+        "correctAnswer":"Misa's Shinigami"
+    },
+    {
+        "id":12,
+        "question":"Who Is Teru Mikami? ",
+        "options":[
+            {"letter":"a","answer":"Third Kira "},
+            {"letter":"b","answer":"Kira"},
+            {"letter":"c","answer":"X Kira"},
+            {"letter":"d","answer":"Second Kira"}
+        ],
+        "correctAnswer":"X Kira"
+    },
+    {
+        "id":13,
+        "question":"I Will Become The God Of... ",
+        "options":[
+            {"letter":"a","answer":"The Opresseds "},
+            {"letter":"b","answer":"The New World"},
+            {"letter":"c","answer":"The Good Ones"},
+            {"letter":"d","answer":"The Whole History"}
+        ],
+        "correctAnswer":"The New World"
+    },
+    {
+        "id":14,
+        "question":"What's Mello's Real Name? ",
+        "options":[
+            {"letter":"a","answer":"Matt Gregory "},
+            {"letter":"b","answer":"Michael Bob"},
+            {"letter":"c","answer":"Mihael Keehl"},
+            {"letter":"d","answer":"Matheus Samanta"}
+        ],
+        "correctAnswer":"Mihael Keehl"
+    },
+    {
+        "id":15,
+        "question":"Matsuda Is... ",
+        "options":[
+            {"letter":"a","answer":"Acting Strange"},
+            {"letter":"b","answer":"Acting Stupid Again"},
+            {"letter":"c","answer":"Is Acting Funny Again"},
+            {"letter":"d","answer":"Acting Nonsensically"}
+        ],
+        "correctAnswer":"Acting Stupid Again"
+    },
+    {
+        "id":16,
+        "question":"Who Is Kyosuke Higuchi?",
+        "options":[
+            {"letter":"a","answer":"SPK Member "},
+            {"letter":"b","answer":"Riuky's Master"},
+            {"letter":"c","answer":"The Third Kira"},
+            {"letter":"d","answer":"A Spy"}
+        ],
+        "correctAnswer":"The Third Kira"
+    },
+    {
+        "id":17,
+        "question":"Who Killed L?",
+        "options":[
+            {"letter":"a","answer":"Rem"},
+            {"letter":"b","answer":"Higuchi"},
+            {"letter":"c","answer":"Light Yagami"},
+            {"letter":"d","answer":"Misa Amane"}
+        ],
+        "correctAnswer":"Rem"
+    },
+    {
+        "id":18,
+        "question":"Who Killed Light?",
+        "options":[
+            {"letter":"a","answer":"Rem"},
+            {"letter":"b","answer":"Nier"},
+            {"letter":"c","answer":"Ryuk"},
+            {"letter":"d","answer":"Matsuda"}
+        ],
+        "correctAnswer":"Ryuk"
+    },
+    {
+        "id":19,
+        "question":"Ah, It's Because...",
+        "options":[
+            {"letter":"a","answer":"I'm Handsome"},
+            {"letter":"b","answer":"I Killed A Murder "},
+            {"letter":"c","answer":"I'm Kira"},
+            {"letter":"d","answer":"I like Watches"}
+        ],
+        "correctAnswer":"I'm Kira"
+    },
+    {
+        "id":20,
+        "question":"What Is L's Real Name?",
+        "options":[
+            {"letter":"a","answer":"Hideki Ryuga"},
+            {"letter":"b","answer":"Lind Lawliet"},
+            {"letter":"c","answer":"L Light"},
+            {"letter":"d","answer":"L. Lawliet"}
+        ],
+        "correctAnswer":"L. Lawliet"
+    },
+    {
+        "id":22,
+        "question":"How Many Episode Does The Anime Has?",
+        "options":[
+            {"letter":"a","answer":"37"},
+            {"letter":"b","answer":"36"},
+            {"letter":"c","answer":"38"},
+            {"letter":"d","answer":"39"}
+        ],
+        "correctAnswer":"38"
+    },
+    {
+        "id":21,
+        "question":"How Many Times L Changed His Clouth?",
+        "options":[
+            {"letter":"a","answer":"0"},
+            {"letter":"b","answer":"1"},
+            {"letter":"c","answer":"3"},
+            {"letter":"d","answer":"2"}
+        ],
+        "correctAnswer":"0"
+    },
+    {
+        "id":22,
+        "question":"How Much Is The Shinigami's Eye Deal?",
+        "options":[
+            {"letter":"a","answer":"24 Apples"},
+            {"letter":"b","answer":"30% Of The Lifetime"},
+            {"letter":"c","answer":"50% Of The Lifetime"},
+            {"letter":"d","answer":"Become A Shinigami"}
+        ],
+        "correctAnswer":"50% Of The Lifetime"
+    },
+    {
+        "id":23,
+        "question":"Who's Naomi Misora's Husband?",
+        "options":[
+            {"letter":"a","answer":"Reye Penber"},
+            {"letter":"b","answer":"Aizawa"},
+            {"letter":"c","answer":"She Has No Husband"},
+            {"letter":"d","answer":"Mogi"}
+        ],
+        "correctAnswer":"Reye Penber"
+    },
+    {
+        "id":24,
+        "question":"What's Nier's Real  Name?",
+        "options":[
+            {"letter":"a","answer":"Nate River"},
+            {"letter":"b","answer":"Nate Lawliet"},
+            {"letter":"c","answer":"Nate Ross"},
+            {"letter":"d","answer":"Nate Kheel"}
+        ],
+        "correctAnswer":"Nate River"
+    },
+    {
+        "id":24,
+        "question":"What Is SPK?",
+        "options":[
+            {"letter":"a","answer":"L's Mansion"},
+            {"letter":"b","answer":"L's Organization Code Name"},
+            {"letter":"c","answer":"Nier's Organization To Catch Kira"},
+            {"letter":"d","answer":"A TV Channel"}
+        ],
+        "correctAnswer":"Nier's Organization To Catch Kira"
+    },
+    {
+        "id":25,
+        "question":" What Was The Color Of The Last Suit That Light Yagami Wore?",
+        "options":[
+            {"letter":"a","answer":"Red"},
+            {"letter":"b","answer":"Black"},
+            {"letter":"c","answer":"White"},
+            {"letter":"d","answer":"Blue"}
+        ],
+        "correctAnswer":"Black"
+    }
+    
+    
+
+  
+    
+    
+    
+    
+
+]
+
